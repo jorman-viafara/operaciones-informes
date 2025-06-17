@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "supergiros",
+    "token": "7b69645f6469737472697d2d3230323330353235313134333133",
+    "puerto": "0038",
+    "carpeta": "01 Supergiros",
+    "subnombre": "SAC"
+  },
+  {
+    "nombre": "supergiros-soporte",
+    "token": "7b69645f6469737472697d2d3230323430353231303833363336",
+    "puerto": "0034",
+    "carpeta": "01 Supergiros",
+    "subnombre": "SOPORTE"
+  },
+  {
+    "nombre": "estrategias-empresariales",
+    "token": "7b69645f6469737472697d2d3230323431313031313035393333",
+    "puerto": "0012",
+    "carpeta": "05 Estrategias - Empresariales",
+    "subnombre": ""
+  },
+  {
+    "nombre": "bluelink-consuerte",
+    "token": "7b69645f6469737472697d2d3230323431303236303935343537",
+    "puerto": "0022",
+    "carpeta": "06 Consuerte",
+    "subnombre": ""
+  },
+  {
+    "nombre": "bluelink-redcolsa",
+    "token": "7b69645f6469737472697d2d3230323431323138313335303438",
+    "puerto": "0022",
+    "carpeta": "07 Redcolsa",
+    "subnombre": ""
+  },
+  {
+    "nombre": "supergiros-lafer",
+    "token": "7b69645f6469737472697d2d3230323530363039313635373235",
+    "puerto": "0058",
+    "carpeta": "01 Supergiros",
+    "subnombre": "LAFER"
+  }
+]

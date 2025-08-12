@@ -21,13 +21,6 @@
     "subnombre": ""
   },
   {
-    "nombre": "bluelink-consuerte",
-    "token": "7b69645f6469737472697d2d3230323431303236303935343537",
-    "puerto": "0022",
-    "carpeta": "06 Consuerte",
-    "subnombre": ""
-  },
-  {
     "nombre": "bluelink-redcolsa",
     "token": "7b69645f6469737472697d2d3230323431323138313335303438",
     "puerto": "0022",
